@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(233, 198, 103);
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+
+
+h1 {
+    text-align: center;
+    color: rgb(5, 65, 88);
+    text-emphasis: bold;
+}
+
+.mainNav {
+    background-color: white;
+}
+
+.mainNav li {
+    display: inline-block;
+    width: 20%;
+    margin-right: 4px;
+    text-align: center;
+}
+
+.post {
+    background-color: white;
+    border: solid black 2px;
+    margin: 5% 0;
+    padding: 0;
+}
+.post li {
+    display: inline-block;
+
+}
+.post button {
+    margin-left: 80%;
+}
+
+.newPost {
+    background-color: white;
+    border: solid black 2px;
+    margin: 10% 0;
+}
+
+/* .newPost h4 {
+
+} */
+
+.newPost textarea {
+    width: 95%;
+    margin: 2.5%;
+}
+
+
+footer {
+    text-align: center;
+    background-color: white;
+}
